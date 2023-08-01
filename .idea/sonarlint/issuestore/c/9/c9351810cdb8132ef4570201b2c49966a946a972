@@ -1,0 +1,10 @@
+
+E
+java:S5411H"*Use the primitive boolean expression here.(™•Â´ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ËÉÞøÿÿÿÿ
+R
+java:S2387"7"logger" is the name of a field in "GenericFilterBean".(Ÿõ•Ëÿÿÿÿÿ
+U
+java:S3416":Update this logger to use "JwtAuthenticationFilter.class".(Ÿõ•Ëÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Š†Ø

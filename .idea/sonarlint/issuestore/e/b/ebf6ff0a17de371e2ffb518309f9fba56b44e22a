@@ -1,0 +1,15 @@
+
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ ¥À
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÕÇ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ÌÆÆıÿÿÿÿ
+y	java:S116#"XRename this field "role_admin_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù— ²ùÿÿÿÿ8äÿæ˜1
+z	java:S116%"YRename this field "role_normal_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€—›‡ıÿÿÿÿ8·Éç˜1
+W	java:S125+"<This block of commented-out lines of code should be removed.(×•ş^8ù­ê˜1
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ó·í£
+V	java:S1259"<This block of commented-out lines of code should be removed.(û±Ì…ıÿÿÿÿ
+{
+java:S1128"YRemove this unused import 'org.springframework.security.crypto.password.PasswordEncoder'.(‰¡ßáÿÿÿÿÿ8´İì˜1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8´İì˜1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8´İì˜1

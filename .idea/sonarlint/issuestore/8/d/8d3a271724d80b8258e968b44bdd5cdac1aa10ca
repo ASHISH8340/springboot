@@ -1,0 +1,9 @@
+
+
+java:S1488."cImmediately return this expression instead of assigning it to the temporary variable "authorities".(ÄøS8¼¦´˜1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±– ×ıÿÿÿÿ
+i	java:S116 "TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šø´¯
+D
+java:S1948("'Make "roles" transient or serializable.(ÁÀö»8àÈ·˜1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ìÈ·˜1

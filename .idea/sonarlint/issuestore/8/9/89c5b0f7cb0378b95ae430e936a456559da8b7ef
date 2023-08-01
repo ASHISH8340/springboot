@@ -1,0 +1,7 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹š›ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åêìùÿÿÿÿÿ
+U
+java:S1128"9Remove this unused import 'com.gl.Leave.dto.EmployeeDto'.(»ƒ¤q8èí´Œ1
+W
+java:S1128"5Remove this unused import 'com.gl.Leave.model.Leave'.(Õ›¡”üÿÿÿÿ8èí´Œ1

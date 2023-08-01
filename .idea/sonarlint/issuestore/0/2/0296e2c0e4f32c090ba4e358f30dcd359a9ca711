@@ -1,0 +1,12 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èÝÎÑþÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±×®¼üÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ˆôy
+_
+java:S2387"D"logger" is the name of a field in "ResponseEntityExceptionHandler".(ù¿£Þùÿÿÿÿ
+T
+java:S3416"9Update this logger to use "GlobalExceptionHandler.class".(ù¿£Þùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É»Ó­úÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èÝÎÑþÿÿÿÿ

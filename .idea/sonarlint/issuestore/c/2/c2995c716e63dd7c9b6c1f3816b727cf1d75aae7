@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓìÉ—ıÿÿÿÿ
+x
+java:S3305"]Inject this field value directly into "authenticationProvider", the only method that uses it.(ÙÍ•¯üÿÿÿÿ
+u
+java:S3305!"ZInject this field value directly into "securityFilterChain", the only method that uses it.(‰ÕÑıÿÿÿÿ
+u
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(ÿ‰Ïùÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(­¦ıÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(ûÖÇ üÿÿÿÿ
+
+java:S1128"€Remove this unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'.(£ØÓ‰8¯ÇÀ›1
+l
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8¯ÇÀ›1
+s
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8¯ÇÀ›1
+ƒ
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8¯ÇÀ›1

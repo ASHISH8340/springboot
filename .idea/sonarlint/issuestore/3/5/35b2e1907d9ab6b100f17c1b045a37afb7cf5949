@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÑËìùÿÿÿÿ
+k
+java:S3655;"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ÿ¥ÉÁúÿÿÿÿ
+R
+java:S1611C"5Remove the parentheses around the "element" parameter(ÎÃÞ8Ù—‰š1
+Y
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(ÖÒ³¹ýÿÿÿÿ
+Y	java:S125ê"<This block of commented-out lines of code should be removed.(úŒÿ›8žçãœ1
+w
+java:S1128"URemove this unused import 'org.springframework.security.access.prepost.PreAuthorize'.(ˆ†×ùÿÿÿÿ8á‘ˆô–1
