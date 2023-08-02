@@ -1,0 +1,162 @@
+.addShop-sec{
+	position: relative;
+}
+.login-wrap{
+	background-color: #f8f8f8;
+	width: 100%;
+	height: 100vh;
+	padding: 70px 0px;
+    font-family: 'Rajdhani', sans-serif;
+}
+.form-wrap {
+	padding: 50px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: -15px 15px 10px 3px #c7c7c7;
+	font-family: 'Rajdhani', sans-serif;
+	margin:20px 100px !important;
+}
+
+.form-wrap form{
+	width:100%;
+}
+.form-wrap .Confirm-details{
+	width:300px !important;
+	margin: auto;
+	margin-right: auto!important;
+}
+.form-wrap .Confirm-details p span{
+	width:150px !important;
+	display: inline-block !important;
+	font-weight: 500;
+}
+.form-wrap .Confirm-details p {
+	font-weight: 600;
+}
+/* .sign-wrap{
+    background-image: url(./images/bg.webp);
+    padding-top: 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+} */
+.sign-wrap .form-wrap{
+    margin: 0px auto;
+    box-shadow: 0px 0 20px 5px #000;
+}
+.form-wrap h4{
+    font-size: 27px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 25px;
+	text-transform: uppercase;
+}
+.form-wrap .input-group {
+	box-shadow: -5px 5px 6px 0px #c7c7c7;
+	overflow: hidden;
+	border-radius: .375rem;
+}
+.form-wrap .input-group .input-group-text{
+    border-left: 2px solid blue;
+    background-color: transparent;
+    padding:15px;
+}
+.form-wrap .form-check{
+	width: 100px;
+	text-align: center;
+	display: table;
+	margin: auto!important;
+}
+.form-wrap .input-group .form-control{
+	border-radius: .375rem;
+}
+.form-wrap .form-label{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+}
+.forgetpass{
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: underline;
+    color: #000;
+}
+.addingShop-wrap .submitbtn {
+	background-color: #13185a;
+	padding: 10px 20px;
+	color: #fff !important;
+	font-weight: 700;
+	font-size: 15px !important;
+	align-items: center;
+	display: flex;
+}
+.addingShop-wrap .backbtn {
+	background-color: #fff;
+	padding: 10px 20px;
+	color: #13185a !important;
+	font-weight: 700;
+	font-size: 15px !important;
+	align-items: center;
+	display: flex;
+}
+.addingShop-wrap .submitbtn svg{
+	font-size: 20px!important;
+	margin-right: 10px;
+}
+.addingShop-wrap .backbtn svg{
+	font-size: 20px!important;
+	margin-right: 10px;
+}
+.entersignup .signupbtn {
+	background-color: #0242be;
+	padding: 15px 30px;
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+    border-color:#0242be;
+}
+.StepperHead-wrap{
+	padding-top:160px;
+	position: relative;
+}
+
+.StepperHead-wrap .StepperHead-content {
+	font-family: 'Rajdhani', sans-serif;
+	padding: 10px 20px;
+	background-color: #e0e3e8;
+	position: relative;
+	z-index: 9999;
+}
+
+.StepperHead-wrap .StepperHead-content h6 {
+	font-size: 20px;
+	margin-right: 10px;
+	background-color: #f8f8f8;
+	padding: 13px 17px;
+	border-radius: 50%;
+	font-weight: 600;
+}
+
+.StepperHead-wrap .StepperHead-content h5{
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.StepperHead-wrap .active .StepperHead-content h6 {
+	background-color: green;
+	color: #fff;
+}
+
+.StepperHead-wrap .active .StepperHead-content h5 {
+	color: green;
+}
+
+.StepperHead-wrap .horizonalLine hr {
+	position: absolute;
+	top: 179px;
+	left: 0;
+	right: 0;
+	z-index: 999;
+	color: #000;
+}

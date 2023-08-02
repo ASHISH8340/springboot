@@ -1,0 +1,212 @@
+
+.login-form {
+  margin: 0;
+  padding: 0;
+  width: 100% !important;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.login-section {
+  /* margin: 30px; */
+  height: auto;
+  padding:10px;
+  width: 66% !important;
+  background-color: #fff;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-section .row:nth-last-child(1){
+  height: 90%;
+}
+.login-form .form-block {
+  height: 100%;
+  width: 100%;
+  border-radius: 2%;
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #fff !important;
+  text-align: center;
+}
+.login-form .login-banner {
+  /* width: 100%;  */
+  /* height: 100%; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.login-container{
+  padding: 0;
+  margin: 0;
+}
+.login-form .login-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-form .card-body{
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+.login-container .card{
+  border: none;
+  background-color: rgba(72, 114, 168, 0.3);
+  height: 100% !important;
+  width: 99%;
+  border-radius: 30px;
+}
+.login-container .card-body{
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-start;
+  align-items: center;
+}
+.login-container .card-body input:not([type=checkbox]){
+  margin: 0px 10px 10px 0px;
+}
+/* .login-container .card-body label{
+  margin-left: 10px;
+} */
+.login-header {
+  height: 20px;
+  font-weight: 900;
+}
+.login-header h2 {
+  font-size:40px;
+}
+.login-third-party{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+form {
+  padding-top:0px;
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-top: 30px;
+  width: 60%;
+}
+
+
+.btn {
+  font-size: 14px !important;
+  margin-top: 20px !important;
+}
+
+.remember {
+  margin-top: 5px;
+  padding-left: 28px !important;
+  text-align: left;
+}
+
+.forgot-pass {
+  margin-top: 5px;
+  /* padding-right: 0px !important; */
+  text-align: right;
+  
+}
+.alert {
+  margin-bottom: -30px;
+  font-size: 13px;
+  margin-top: 20px;
+}
+.login-form{
+  width: 90%;
+
+}
+.login-form input:not(input[type=checkbox]):not(input[type=radio]){
+  /* margin: 5px; */
+  margin: 5px;
+  height: 48px;
+  border-radius: 30px;
+}
+.google-login{
+  background-color: #fff;
+  display: inline-block;
+  margin: 15px; 
+  border-radius: 10px;
+  height: 48px;
+  width: 80%;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-form-card{
+  width: 80%;
+}
+.gIcon{
+  font-size: 50px;
+}
+.google-login a { 
+  color: rgb(0,0,0) !important;
+  display: table-cell;
+  font-size: 1em;
+  padding: 10px;
+  vertical-align: middle; 
+  text-align: center;
+  text-decoration: none;
+  
+ 
+}
+a:hover, a:active {
+  color: lightsalmon;
+  text-decoration: none;
+}
+
+.container div:last-child {
+  margin-right: 0;
+}
+.login-form-separator:after,
+.login-form-separator:before{
+  margin-top: 10px;
+  border: 1px solid black;
+    /* text-decoration:line-through; */
+}
+.login-card-header{
+  /* text-align: center; */
+  padding-top: 5%;
+  padding-left: 12%;
+}
+.form-footer p{
+  font-size: 16px;
+  margin-top: 15px;
+  text-align: center;
+}
+.form-footer p a{
+  color:rgb(7, 58, 223);
+}
+.error{
+  color: red;
+  font-size: 15px;
+  margin: 0;
+}
+.logo-img{
+  position: absolute;
+  height: 53px !important;
+  border-radius: 22px;
+  margin-top: 29px;
+
+}
+.image-block{
+  width: 90%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: inherit;
+}
+.img-banner{
+  margin-top: 59px;
+}

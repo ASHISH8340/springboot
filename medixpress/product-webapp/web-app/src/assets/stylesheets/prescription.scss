@@ -1,0 +1,92 @@
+.prescription-wrapper {
+    display: flow-root;
+    border-radius: 4px;
+    //box-shadow: 0 0 7px 0 rgb(0 0 0 / 14%);
+    background-color: #fff;
+    padding: 20px 0;
+    min-height: 460px;
+    width: 60%;
+    box-shadow: 2px 2px 4px #7095d4;
+    margin-left: 30px;
+    margin-top: -110px;
+    .heading {
+        font-size: 18px;
+        font-weight: 700;
+        color: #212121;
+        margin-bottom: 5px;
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: left;
+    }
+    .description {
+        font-size: 14px;
+        color: #757575;
+        margin-bottom: 10px;
+        margin-right: 20px;
+        margin-left: 20px;
+        text-align: left;
+    }
+    .OrderViaPrescription__new-upload-box___cnXk_ {
+        display: flow-root;
+        border-radius: 4px;
+        box-shadow: 0 0 7px 0 rgb(0 0 0 / 14%);
+        background-color: #fff;
+        padding: 20px 0;
+        min-height: 460px;
+    }
+    .OrderViaPrescription__anchorNew___2Zust {
+        display: flex;
+        color: #757575;
+        font-size: 14px;
+        border-radius: 4px;
+        margin-top: 10px;
+        border: 1px solid #e0e0e0;
+        padding: 0;
+        background-color: #f6f6f6;
+        margin-right: 20px;
+        margin-left: 20px;
+        max-width: 340px;
+        margin-top: 30px;
+        position: relative;
+    }
+    .OrderViaPrescription__img-size___1PAey {
+        height: 40px;
+        width: 40px;
+        margin: 16px 27px;
+    }
+    img {
+        max-width: 100%;
+        vertical-align: middle;
+        border: 0;
+    }
+    .OrderViaPrescription__new-upload-box-text___21_AA {
+        display: block;
+        background-color: #fff;
+        width: 100%;
+        padding: 27px 17px;
+        color: #424242;
+        font-size: 14px;
+        font-weight: 700;
+        margin: 1px;
+    }
+    input.styles__upload-file-control___1BtZe {
+        position: absolute;
+        cursor: pointer;
+        opacity: 0;
+        height: 100%;
+        z-index: 3;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    input[type=file] {
+        border: 1px #ddd solid;
+        box-shadow: 0 0 2px #ccc;
+        padding: 5px;
+    }
+    .style__image___Ny-Sa.style__loaded___22epL {
+        opacity: 1;
+        transform: scale(1);
+        transition: all .3s ease-in-out;
+    }
+}

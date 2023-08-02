@@ -1,0 +1,58 @@
+{"mediList" : [
+    {
+      "id ": 1,
+      "medName": "Paracetamol",
+      "medPrice": 100,
+      "img": "https://www.netmeds.com/images/product-v1/600x600/45285/calpol_500mg_tablet_15_s_0.jpg",
+      "quantity": 1000,
+      "inCartQuantity":1,
+      "pharma":"abc pharma",
+      "deliveryDate": "15,sep,2022"
+    },
+    
+    {
+        "id" : 2,
+        "medName": "Aciloc",
+        "medPrice": 125,
+        "img": "https://newassets.apollo247.com/pub/media/catalog/product/a/c/aci0005.jpg",
+        "quantity": 1000,
+        "inCartQuantity":1,
+        "pharma":"abc pharma",
+        "deliveryDate": " 30,sep,2022"   
+
+    },
+    
+    {
+       "id" : 3,
+       "medName": "Becasule",
+       "medPrice": 50,
+       "img": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,,c_pad,q_h_700auto,f_auto/cropped/lq3gojajxkhclwz4fu0j.jpg",
+       "quantity": 1000,
+       "inCartQuantity":1,
+       "pharma":"abc pharma",
+      "deliveryDate": "15,sep,2022"
+    },
+    {
+      "id" : 4,
+      "medName": "Dettol Antiseptic",
+      "medPrice": 250,
+      "img": "https://niramaya.in/wp-content/uploads/2021/03/61zPiIUo4UL._SL1000_.jpg",
+      "quantity": 1000,
+      "inCartQuantity":1,
+      "pharma":"abc pharma",
+     "deliveryDate": "15,sep,2022"
+   },
+   
+   
+   
+   {
+   "id" : 5,
+    "medName": "ON Whey Protein",
+    "medPrice": 150,
+    "img":"https://m.media-amazon.com/images/I/616cI2pfTOL._SL1200_.jpg",
+    "inCartQuantity": 1,
+    "pharma":"abc pharma",
+   "deliveryDate": "15,sep,2022"
+ }
+
+]}

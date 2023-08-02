@@ -1,0 +1,60 @@
+.headerBar{
+    background: rgb(19, 24, 90);
+    z-index:99999;
+    position:fixed;
+    width: 100%;
+    align-self: flex-start !important;
+  }
+  .headerBar .navbar-brand{
+    color:rgb(0, 0, 0) !important;
+    padding-left: 25px;
+    font-weight: 900;
+  }
+  .headerBar .nav-item{
+    color:rgb(0, 0, 0) !important;
+  }
+  .navbar-brand{
+    width: 150px ;
+  }
+  .brand-logo{
+    height: 100%;  
+    width: 100%;  
+    margin-left: 15px;
+    object-fit: cover;
+    transform: scale(1.5);
+    object-position: center;
+  }
+  .top-menu{
+   
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+  }
+  .top-menu .menu-list{
+    height: 50px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .top-menu .menu-list >li{
+    margin: 0px 10px 0px 10px;
+  }
+  .menu-list .menu-list-item a{
+    color: #000 !important;
+  }
+  .pincode-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 40px; */
+  }
+  .search-btn{
+    position: absolute;
+    margin-left: 222px;
+    cursor: pointer;
+  }
+  

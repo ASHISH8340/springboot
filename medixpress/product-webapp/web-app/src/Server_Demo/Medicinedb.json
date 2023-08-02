@@ -1,0 +1,197 @@
+{
+    "medicine": [
+        {
+            "productId": "1",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/812809/pure_nutrition_progut_plus_for_healthy_digestion_veg_capsules_60_s_0.jpg",
+            "productName": "Pure Nutrition Progut Plus (For Healthy Digestion) Veg Capsules 60's",
+            "bestPrice": "749.50",
+            "mrpPrice": "1499.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "2",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/858567/inlife_triphala_extract_capsules_60_s_0.jpg",
+            "productName": "INLIFE Triphala Extract Capsules 60's",
+            "bestPrice": "218.94",
+            "mrpPrice": "459.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "3",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/823661/baidyanath_amoebica_tablet_50_s_0.jpg",
+            "productName": "Baidyanath Amoebica Tablet 50's",
+            "bestPrice": "230.00",
+            "mrpPrice": " 260.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+           
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "4",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/953780/dr_vaidyas_ayurvedic_allergy_cold_pack_0_0.jpg",
+            "productName": "Dr. Vaidya's Ayurvedic Allergy & Cold Pack",
+            "bestPrice": "550.00",
+            "mrpPrice": "880.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "5",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/947611/riffway_neem_500_mg_capsule_60s_0_0.jpg",
+            "productName": "Riffway Neem 500 mg Capsule 60's",
+            "bestPrice": "499.00",
+            "mrpPrice": "999.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "6",
+            "productImage":"https://www.netmeds.com/images/product-v1/600x600/317431/zecuf_cough_syrup_100ml_0.jpg",
+            "productName": "Zecuf Cough Syrup 100ml",
+            "bestPrice": "10.00",
+            "mrpPrice": "125.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "7",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/889569/baidyanath_sut_shekhar_ras_no_1_tablet_25_s_0.jpg",
+            "productName": "Baidyanath Sut Shekhar Ras No.1 with Gold Tablet 25's",
+            "bestPrice": "1516.00",
+            "mrpPrice": "1685.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "8",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/830973/allen_a35_asthma_drops_30_ml_0.jpg",
+            "productName": "Allen A35 Asthma Drops 30 ml",
+            "bestPrice": "160.00",
+            "mrpPrice": "180.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "9",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/812809/pure_nutrition_progut_plus_for_healthy_digestion_veg_capsules_60_s_0.jpg",
+            "productName": "Pure Nutrition Progut Plus (For Healthy Digestion) Veg Capsules 60's",
+            "bestPrice": "749.50",
+            "mrpPrice": "1499.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "10",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/858567/inlife_triphala_extract_capsules_60_s_0.jpg",
+            "productName": "INLIFE Triphala Extract Capsules 60's",
+            "bestPrice":  "218.94",
+            "mrpPrice": "459.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "11",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/1041379/wholeleaf_headache_migraine_relief_oil_10_ml_401109_0_3.jpg",
+            "productName": "Wholeleaf Headache & Migraine Relief (CBD) Oil 10 ml",
+            "bestPrice": "399.00",
+            "mrpPrice": "430.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+           
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "12",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/42323/ecosprin_75mg_tablet_14s_0_2.jpg",
+            "productName": "Ecosprin 75mg Tablet 14'S",
+            "bestPrice": "6.00",
+            "mrpPrice": "5.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "13",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/813142/patanjali_divya_ekangveer_ras_powder_5_gm_0.jpg",
+            "productName": "Patanjali Divya Ekangveer Ras Powder 5 gm",
+            "bestPrice": "30.00",
+            "mrpPrice": "50.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "14",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/894216/kerala_ayurveda_myaxyl_oil_200_ml_0.jpg",
+            "productName": "Kerala Ayurveda Myaxyl Oil 200 ml",
+            "bestPrice": "340.00",
+            "mrpPrice": "400.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "15",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/408855/himani_fast_relief_cheetah_formula_pain_relief_ointment_45_ml_0.jpg",
+            "productName": "Himani Fast Relief Cheetah Pain Relief Ointment 45 ml",
+            "bestPrice": "160.00",
+            "mrpPrice": "180.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        },
+        {
+            "productId": "16",
+            "productImage": "https://www.netmeds.com/images/product-v1/600x600/930731/saridon_advance_headache_relief_tablet_10s_0_1.jpg",
+            "productName": "Saridon Advance Headache Relief Tablet 10's",
+            "bestPrice": "39.00",
+            "mrpPrice": "48.00",
+            "productUnits": "100",
+            "productCategory": "Tablet",
+            "prodDescription": "to cure fever",
+            "mfgDate": "1/1/2022",
+            "expDate": "12/12/2023"
+        }
+       
+    ]
+}

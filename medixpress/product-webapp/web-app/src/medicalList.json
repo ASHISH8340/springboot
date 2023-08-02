@@ -1,0 +1,26 @@
+{
+  "medicalShopList":[
+    {
+      "id" : 1,
+      "name" : "Krishna",
+      "email" : "abc@gmail.com",
+      "ownerName" : "Krishna",
+      "ShopId" : "Ch-102",
+      "shop address line" : "No-3 !st main road, ECR, neelangarai, chennai-41",
+      "shop Landmark" : "Near by police stations",
+      "cityNameWithPincode" : "Chennai - 600041"
+    },
+    {
+      "id" : 2,
+      "name" : "Krishna",
+      "email" : "abc@gmail.com",
+      "ownerName" : "Krishna",
+      "ShopId" : "Ch-102",
+      "shop address line" : "No-3 !st main road, ECR, neelangarai, chennai-41",
+      "shop Landmark" : "Near by police stations",
+      "cityNameWithPincode" : "Chennai - 600041"
+    }
+  ]
+
+  
+}
